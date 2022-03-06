@@ -1,7 +1,7 @@
 {
   "name": "@gmcotta/design-tokens",
   "description": "Repositório de design tokens do curso de Design Systems para desenvolvedores da Meiuca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "author": "Gustavo Matias",
   "license": "ISC",
