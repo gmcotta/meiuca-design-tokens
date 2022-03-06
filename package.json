@@ -1,5 +1,5 @@
 {
-  "name": "design-tokens",
+  "name": "@gmcotta/design-tokens",
   "description": "Repositório de design tokens do curso de Design Systems para desenvolvedores da Meiuca",
   "version": "1.0.0",
   "main": "src/index.js",
