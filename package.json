@@ -1,17 +1,23 @@
 {
   "name": "design-tokens",
   "description": "Repositório de design tokens do curso de Design Systems para desenvolvedores da Meiuca",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "src/index.js",
-  "devDependencies": {
-    "style-dictionary": "^3.7.0"
+  "author": "Gustavo Matias",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmcotta/meiuca-design-tokens"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "node src/index.js",
     "build:dev": "rm -rf dist && yarn build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "keywords": ["design-system", "design-tokens", "meiuca"],
+  "devDependencies": {
+    "style-dictionary": "^3.7.0"
+  }
 }
