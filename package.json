@@ -3,14 +3,15 @@
   "description": "Repositório de design tokens do curso de Design Systems para desenvolvedores da Meiuca",
   "version": "1.0.0",
   "main": "src/index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "style-dictionary": "^3.7.0"
+  },
   "scripts": {
-    "build": "node src/index.js"
+    "build": "node src/index.js",
+    "build:dev": "rm -rf dist && yarn build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "style-dictionary": "^3.7.0"
-  }
+  "dependencies": {}
 }
