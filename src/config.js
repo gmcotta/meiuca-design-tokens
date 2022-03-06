@@ -11,6 +11,16 @@ function registerConfig({ current, buildPath }) {
             format: 'css/variables'
           }
         ]
+      },
+      'web/scss': {
+        transformGroup: 'scss',
+        buildPath: buildPath.scss,
+        files: [
+          {
+            destination: `${current.filename}.scss`,
+            format: 'scss/variables'
+          }
+        ]
       }
     }
   };
