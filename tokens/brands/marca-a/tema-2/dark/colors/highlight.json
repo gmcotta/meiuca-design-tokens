@@ -2,16 +2,16 @@
   "highlight": {
     "color": {
       "pure": {
-        "value": "#F673AD"
+        "value": "#FF8A00"
       },
       "01": {
-        "value": "#FDD9E9"
+        "value": "#FFE3C2"
       },
       "02": {
-        "value": "#900945"
+        "value": "#CC6E00"
       },
       "03": {
-        "value": "#430420"
+        "value": "#7A4200"
       }
 
     }

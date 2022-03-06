@@ -2,16 +2,16 @@
   "brand": {
     "color": {
       "pure": {
-        "value": "#3A8BFF"
+        "value": "#01BF69"
       },
       "01": {
-        "value": "#D6E7FF"
+        "value": "#D6FFED"
       },
       "02": {
-        "value": "#0068FF"
+        "value": "#01A259"
       },
       "03": {
-        "value": "#003F99"
+        "value": "#00512D"
       }
     }
   }
